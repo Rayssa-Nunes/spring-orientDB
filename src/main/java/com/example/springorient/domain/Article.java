@@ -52,7 +52,4 @@ public class Article {
         return "Article [title=" + title + ", content=" + content + ", author=" + author + "]";
     }
     
-    
-    
-    
 }
